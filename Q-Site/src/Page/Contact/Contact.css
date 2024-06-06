@@ -1,0 +1,12 @@
+.headerContact::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 99px;
+    height: 3px;
+    background: #388da8;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}

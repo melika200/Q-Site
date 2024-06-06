@@ -1,0 +1,10 @@
+.hero{
+    background-image: url("../../assets/Images/hero.png");
+    background-blend-mode:lighten;
+    background-color: rgb(70, 69, 69);
+}
+.img-hero{
+    width:55%;
+    margin: 45px 22%;
+    
+}

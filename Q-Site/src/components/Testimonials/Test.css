@@ -1,0 +1,25 @@
+.headerTest::after{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #388da8;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.swiper-slide{
+padding: 0px;
+}
+.swiper-pagination{
+    padding-top: 30px;
+}
+.swiper-pagination-bullet{
+    width:20px;
+    height: 20px;
+}
+.swiper-pagination-bullet-active{
+background-color:#388da8;
+}

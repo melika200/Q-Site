@@ -1,0 +1,6 @@
+.parent:hover.child { 
+    background-color: #085369; 
+} 
+.parent:hover .chicky{
+    color: #ade3f3;
+}
